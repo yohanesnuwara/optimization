@@ -1,5 +1,10 @@
 # Optimization
 
+## Optimizers available in Python
+
+* `bayes-opt`: Bayesian optimization
+* `mlrose`
+
 ## Materials on Optimization
 * Scipy 2017 Lecture "Modern Optimization Methods in Python" by Michael McKerns: [Youtube](https://www.youtube.com/watch?v=geFER2oVvvU) and [Github](https://github.com/mmckerns/tutmom)
 * CodeThisCodeThat YouTube channel on optimization from scratch, various methods specifically for linear function ax+b: [Youtube playlist](https://www.youtube.com/watch?v=hGZJtBUbnAk&list=PLKy51kKbOLlzmM7R28zKYX1Eypd7nt4FX) and [Github](https://github.com/yacineMahdid/artificial-intelligence-and-machine-learning/tree/master/Deep%20Learning%20from%20Scratch%20in%20Python)
