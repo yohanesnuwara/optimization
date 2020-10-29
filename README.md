@@ -3,7 +3,7 @@
 ## Optimizers available in Python
 
 * `bayes-opt`: Bayesian optimization
-* `mlrose`
+* `mlrose`: Simulated annealing
 
 ## Materials on Optimization
 * Scipy 2017 Lecture "Modern Optimization Methods in Python" by Michael McKerns: [Youtube](https://www.youtube.com/watch?v=geFER2oVvvU) and [Github](https://github.com/mmckerns/tutmom)
