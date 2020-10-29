@@ -2,8 +2,9 @@
 
 ## Optimizers available in Python
 
-* `bayes-opt`: Bayesian optimization
-* `mlrose`: Simulated annealing
+* [`bayes-opt`](https://github.com/fmfn/BayesianOptimization): Bayesian optimization
+* [`mlrose`](https://github.com/gkhayes/mlrose): Simulated annealing, genetic algorithm, Hill climbing method, MIMIC (only discrete opt.)
+* PyGAD, simanneal
 
 ## Materials on Optimization
 * Scipy 2017 Lecture "Modern Optimization Methods in Python" by Michael McKerns: [Youtube](https://www.youtube.com/watch?v=geFER2oVvvU) and [Github](https://github.com/mmckerns/tutmom)
